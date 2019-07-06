@@ -1,4 +1,4 @@
-package recursividade;
+package com.java.recursividade;
 
 public class Fibonacci {
 	
